@@ -1,0 +1,28 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 6 set. 2022, 09:46:01
+    Author     : BONATTI
+*/
+
+/*.fondo{
+    background-image: url(../img/logo02.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}*/
+.login{
+    width: 30%;
+    margin-top: 10%;
+}
+
+
+@font-face {
+  font-family: titulo;
+  src: url(../fuente/Roboto-Bold.ttf);
+}
+
+h2,label{
+    font-family: titulo;
+}
